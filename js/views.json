@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo.gif",
-    "tittle" : "TODAY | Season 2 | July 8, 2022 ",
+    "tittle" : "TODAY | Season 2 | July 15, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://fb.me/e/1Oz1TbRLy"
+        "link" : "https://fb.me/e/2PL1tKBX2"
       }
 
     ],
@@ -40,14 +40,16 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Sto. Tomas, Pangasinan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Zamboanga City",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Sorsogon",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zamboanga Del Norte",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Capiz",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Davao De Oro",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
       
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Quezon North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"San Carlos City, Pangasinan ",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
