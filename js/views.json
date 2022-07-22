@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | July 15, 2022 ",
+    "tittle" : "TODAY | Season 2 | July 22, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://youtu.be/r-BMYiQw8rA"
+        "link" : "https://www.youtube.com/watch?v=I9XXDBMDIUk"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://fb.me/e/2PL1tKBX2"
+        "link" : "https://fb.me/e/22e18bUQS"
       }
 
     ],
@@ -40,16 +40,16 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Sorsogon",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Zamboanga Del Norte",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Capiz",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Davao De Oro",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
+      {"lokal":"Quezon",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Tandag City, Surigao Del Sur",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Pampanga North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zambales South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
       
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"San Carlos City, Pangasinan ",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Sta. Cruz, Laguna ",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
