@@ -41,8 +41,7 @@
     "viewData" : [
        
       {"lokal":"Albay",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bacolod City",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Negros Occidental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bacolod City, Negros Occidental",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       {"lokal":"Maynila",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
       
   
