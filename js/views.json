@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | August 19, 2022 ",
+    "tittle" : "TODAY | Season 2 | August 26, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=cYk4jkgZ7AE",
+        "link" : "https://www.youtube.com/watch?v=TvEMnrvyOzk",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://fb.me/e/1QOJpDv3X",
+        "link" : "https://www.facebook.com/events/600669011726311/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,15 +46,15 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Aklan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Aurora",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},   
-      {"lokal":"Bislig City, Surigao Del Sur",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},  
+      {"lokal":"Capas, Tarlac",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Boco City, Cebu",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},   
+      {"lokal":"Lingayen, Pangasinan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},  
       
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Naga City, Camarines Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Bulacan South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
