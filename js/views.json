@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | August 26, 2022 ",
+    "tittle" : "TODAY | Season 2 | September 2, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=TvEMnrvyOzk",
+        "link" : "https://www.youtube.com/watch?v=cmnQR-B-L3k",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/600669011726311/",
+        "link" : "https://www.facebook.com/events/480805886909748/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,15 +46,16 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Capas, Tarlac",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Boco City, Cebu",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},   
-      {"lokal":"Lingayen, Pangasinan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},  
+      {"lokal":"Antique",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Camarines Norte",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Carcar City, Cebu",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},   
+      {"lokal":"Cagayan De Oro, Misamis Occidental",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},  
       
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Bulacan South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Agusan Del Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
