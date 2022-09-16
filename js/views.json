@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | September 9, 2022 ",
+    "tittle" : "TODAY | Season 2 | September 16, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=uB2WBw_79Wc",
+        "link" : "https://www.youtube.com/watch?v=3RkUcj14sQk",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/359074149659555/",
+        "link" : "https://www.facebook.com/events/583187483586186/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,15 +46,16 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Calamian",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Maynila",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Tarlac City, Tarlac",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},    
+      {"lokal":"Metro Manila East",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Davao City",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"La Uinion",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Eastern Samar",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
-      {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
+      {"lokal":" ",         "divider":true , "divider_title":"CFO Techvoc", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Bacolod City, Negros Occidental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Iloilo City",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
