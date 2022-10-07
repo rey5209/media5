@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | September 23, 2022 ",
+    "tittle" : "TODAY | Season 2 | October 7, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=y75QKUSkqHU",
+        "link" : "https://www.youtube.com/watch?v=MBOzm9VXk6M",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/785901692656689/",
+        "link" : "https://www.facebook.com/events/688536695550698/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,16 +46,16 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Surigao Del Norte",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Ilocos Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Maynila",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"Carcar City, Cebu",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Capiz",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Davao De Oro",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Sorsogon",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Zamboanga Del Norte",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"San Jose, Nueva Ecija",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"San Carlos City, Pangasinan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
