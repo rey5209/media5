@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | October 21, 2022 ",
+    "tittle" : "TODAY | Season 2 | October 28, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=0BApJjwljw8",
+        "link" : "https://www.youtube.com/watch?v=OiUa-1_r8E4",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/831589914948617/",
+        "link" : "https://fb.me/e/5IhUFPd1K",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,15 +46,15 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Agusan Del Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Caloocan North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"San Pablo City, Laguna",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Isabela West",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Sta. Rosa, Nueva Ecija",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Kabankalan City, Negros Occidental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Isabela East",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"San Jose, Nueva Ecija",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
