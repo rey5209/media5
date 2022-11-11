@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Breaktertainment | November 4, 2022 ",
+    "tittle" : "TODAY | Breaktertainment | November 11, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=hydv4Nuez7s",
+        "link" : "https://www.youtube.com/watch?v=T39LVH6G3U4",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/956731548633943/",
+        "link" : "https://www.facebook.com/events/856096695423607/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,10 +46,9 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Isabela South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Rizal East",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Ilocos Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"Palawan North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Valencia City, Bukidnon",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zambales North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zamboanga Del Norte",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
